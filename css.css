@@ -13,13 +13,13 @@ nav {
 article {
     background-color: #015249;
     float: left;
-    width: 35%;
+    width: 400px;
     height: 900px;
 }
 aside {
     background-color: #57bc90;
     float: left;
-    width: 65%;
+    width: 70%;
     height: 900px;
 }
 footer  {
@@ -36,8 +36,17 @@ a {
     color: aqua;
 }
 .pictures {
+height: 260px;
+    width: 350px;
+    padding: 20px;
 
 }
 body {
     background-color: cornflowerblue;
+}
+p {
+    padding: 10px;
+}
+h1 {
+    padding: 10px;
 }
